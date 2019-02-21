@@ -1,0 +1,12 @@
+{
+  "name": "electron-clipboard-transparent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "devDependencies": {
+    "electron": "^4.0.5"
+  }
+}
